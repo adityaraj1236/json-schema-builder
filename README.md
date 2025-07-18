@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[Hosted on Vercel](https://your-vercel-or-netlify-link.com)
+[Hosted on Vercel](https://json-schema-builder-three.vercel.app/)
 
 ---
 
