@@ -1,10 +1,10 @@
 # JSON Schema Builder – HROne Frontend Intern Assignment ✅
 
-![Screenshot](./preview.png) <!-- Add your own preview image here -->
+<!-- ![Screenshot](./preview.png) Add your own preview image here -->
 
 ## 🌐 Live Demo
 
-👉 [Hosted on Vercel](https://your-vercel-or-netlify-link.com)
+[Hosted on Vercel](https://your-vercel-or-netlify-link.com)
 
 ---
 
@@ -103,7 +103,7 @@ docker run -p 3000:3000 json-schema-builder
 
 ##  Connect
 
-Built by [Aditya Raj](https://www.linkedin.com/in/your-profile)
+Built by [Aditya Raj](https://www.linkedin.com/in/aditya-raj-124b71242)
 
 Feel free to reach out if you have any questions!
 
